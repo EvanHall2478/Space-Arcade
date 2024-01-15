@@ -28,3 +28,5 @@
 - Different game modes such as two player local and online
 - Adding in special events that can occur at random while playing the game
  the game# Space-Arcade
+
+Created by: Evan Hall and John Burtt
