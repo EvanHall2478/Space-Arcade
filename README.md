@@ -8,6 +8,7 @@
 
 ## How we Built This Game 
 - We wrote this game using classic Atari as our fundamental template, for which we coded our base game "Space Race" from the ground up, using HTML 5, CSS, and Javascript. From that point using the same languages we added two additional game modes "Hot!" and "Zapped!", as well as many different attributes such as an account system, a shop, leaderboards, better formatting and organization, as well as many other HTML files such as instructions, and better menu control.
+- NOTE: This game was originally developed using the Qoom IDE, and as such the webserver and database stored there will likely not run as intended through this repo!
 
 ## Accomplishments that we are proud of
 - Throughout this project we have run into many roadblocks and problems and we are proud that we never quit and have always found a solution to the problem.
